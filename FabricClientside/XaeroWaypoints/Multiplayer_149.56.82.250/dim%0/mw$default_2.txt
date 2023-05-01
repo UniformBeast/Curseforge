@@ -1,0 +1,33 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:raided:R:-320:63:3338:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:raided:R:-643:63:3372:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:raided:R:-707:63:3843:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Underwater base:U:-3885:63:16845:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Insane cave:I:-3867:63:16590:6:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cool cave:C:-4291:63:16434:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:-784:63:-4032:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Brees valley:B:4608:63:4655:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Allay:A:-1777:70:2100:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:-5408:63:17040:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:-4894:63:17075:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:5328:63:2768:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Happy's:H:-2372:89:1584:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:-3919:63:3840:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Wnter's place:W:5431:66:-21842:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Itch's place:I:6100:71:-21812:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:3887:63:-15984:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:monument:M:3741:63:-16769:13:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:191:63:4335:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:witch hut:W:-2284:68:3156:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Monument:M:6846:63:-165652:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:monument:M:6413:115:-36521:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:the crew:T:-4378:69:-690:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mellowtime:M:2737:67:1278:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ancient City:A:-2548:-36:5505:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:spiderspawner:S:-2812:-39:3519:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bonkers mountains:B:-4821:117:-740:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:allay:A:4710:87:-2216:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:End portal:E:-2341:22:4981:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:monument:M:-3393:63:3936:2:false:0:gui.xaero_default:false:0:0:false
